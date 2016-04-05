@@ -1,6 +1,7 @@
 {
 	"name": "impresscms/impresscms-module-billboard",
   "description": "An ImpressCMS module to handle carousels",
+  "type": "impresscms-module",
   "require":
   {
     "impresscms/composer-module-installer-plugin": "*"
