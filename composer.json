@@ -4,7 +4,7 @@
   "type": "impresscms-module",
   "require":
   {
-    "impresscms/composer-module-installer-plugin": "*"
+    "impresscms/composer-module-installer-plugin": "^1.0"
   }
 
 }
