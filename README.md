@@ -4,4 +4,4 @@
 		
 # Billboard
 
-ImpressCMS Simple Billboard
+ImpressCMS Simple Billboard, to make those hero sections a bit more flexible.
