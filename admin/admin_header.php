@@ -14,6 +14,6 @@
  */
 
 include_once "../../../include/cp_header.php";
-include_once ICMS_ROOT_PATH . "/modules/" . basename(dirname(dirname(__FILE__))) . "/include/common.php";
+include_once ICMS_ROOT_PATH . "/modules/" . basename(dirname(__FILE__, 2)) . "/include/common.php";
 if (!defined("BILLBOARD_ADMIN_URL")) define("BILLBOARD_ADMIN_URL", BILLBOARD_URL . "admin/");
 include_once BILLBOARD_ROOT_PATH . "include/requirements.php";
