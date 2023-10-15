@@ -20,7 +20,7 @@ class mod_billboard_SlideHandler extends icms_ipf_Handler {
 	 */
 	public function __construct(&$db) {
 		parent::__construct($db, "slide", "slide_id", "title", "caption", "billboard");
-		$this->enableUpload(array("image/gif", "image/jpeg", "image/pjpeg", "image/png"), 512000, 800, 600);
+		$this->enableUpload(array("image/gif", "image/jpeg", "image/pjpeg", "image/png", "image/webp"), 4000000, 3000, 2000);
 	}
 
 
