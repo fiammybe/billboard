@@ -22,7 +22,7 @@ $modversion = array(
 	"author"					=> "David Janssens (fiammybe)",
 	"credits"					=> "ImpressCMS core team",
 	"help"						=> "",
-	"license"					=> "GNU General Public License (GPL)",
+	"license"					=> "MIT",
 	"official"					=> 0,
 	"dirname"					=> basename(dirname(__FILE__)),
 	"modname"					=> "billboard",
@@ -34,14 +34,14 @@ $modversion = array(
 
 /**  Development information */
 	"status_version"			=> "2",
-	"status"					=> "Alpha",
-	"date"						=> "26/10/2013",
-	"author_word"				=> "Updating and extending the billboards module",
-	"warning"					=> _CO_ICMS_WARNING_ALPHA,
+	"status"					=> "Beta",
+	"date"						=> "26/10/2023",
+	"author_word"				=> "Preparing for ImpressCMS 2 and PHP 8+",
+	"warning"					=> _CO_ICMS_WARNING_BETA,
 
 /** Contributors */
 	"developer_website_url"		=> "http://www.impresscms.be",
-	"developer_website_name"	=> "ImpressCMS Belgium",
+	"developer_website_name"	=> "ImpressCMS",
 	"developer_email"		=> "david.j@impresscms.org",
 
 /** Administrative information */
